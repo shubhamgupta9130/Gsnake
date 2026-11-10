@@ -1,0 +1,6 @@
+{
+  "name": "Neon Viper - Classic & Modern Snake Arcade",
+  "description": "An arcade Snake game featuring responsive controls, dynamic power-ups, multiple game modes, sound effects, and fluid visual juice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
